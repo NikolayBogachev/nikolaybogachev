@@ -28,6 +28,11 @@
 
 📫 Связаться со мной: [Email me](mailto:Bogachev.pro@gmail.com), [Telegram](https://t.me/NikolayBogachev).
 
+###
+
+<p align="center">
+ <img width="600" src="doc/github-snake.svg" alt="snake"/>
+</p>
 
 
 ###
@@ -37,6 +42,9 @@
 ###
 
 [![My Skills](https://skillicons.dev/icons?i=git,python,fastapi,flask,postgresql,mysql,docker,ubuntu)](https://skillicons.dev)
+###
+
+
 ###
 
 <h3 align="left">🔥   Моя статистика :</h3>
