@@ -35,7 +35,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,python,fastapi,flask,postgresql,mysql,docker)](https://skillicons.dev)
 ###
 
 <h3 align="left">🔥   Моя статистика :</h3>
